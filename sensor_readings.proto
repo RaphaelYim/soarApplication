@@ -4,7 +4,7 @@ package soar.application;
 /*
 Source 1: https://github.com/bufbuild/protobuf-language-spec/blob/main/language-spec.md
 Source 2: https://protobuf.dev/getting-started/pythontutorial/
-Style Guide, Language Guide (Proto 3) was referenced as well.
+Style Guide, Language Guide (Proto 3) and Overview was referenced as well.
 */
 message SensorReadings{
    int32 pressure_sensor_1 = 1;
